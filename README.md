@@ -17,3 +17,4 @@ FlashCard Master is a simple and intuitive flashcard application designed to hel
 
    ```bash
    git clone https://github.com/AugustineTamba/Flashcard-App---Q-A.git
+![pic](https://github.com/AugustineTamba/Flashcard-App---Q-A/assets/51299834/b797fa0f-b3dc-4d86-808c-c91fedd0c7d4)
